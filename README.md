@@ -1,2 +1,2 @@
 # RHEL_OpenShift_docs
-RHEL_OpenShift_Doceumentation
+RHEL_OpenShift_Documentation
